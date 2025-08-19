@@ -120,6 +120,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn imbalanced-learn
 Cargar los datos (ubicados en datos_tratados.csv).
 
 Ejecutar las celdas en orden para reproducir el análisis completo.
+```
 
 ---
 
