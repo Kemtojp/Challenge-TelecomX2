@@ -16,9 +16,13 @@ El objetivo principal es **identificar patrones de cancelación** para diseñar 
 ---
 
 ## 📂 Estructura del Proyecto
+
 Challenge_TelecomX2/
+
 │── datos_tratados.csv # Datos tratados en formato CSV
+
 │── Challenge_TelecomX2.ipynb # Cuaderno principal de análisis
+
 │── README.md # Este archivo
 
 ---
